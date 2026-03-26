@@ -13,6 +13,7 @@
 ## Links
 - [Website](https://tikfly.io)
 - [Documentation](https://docs.tikfly.io)
+- [API Reference](https://docs.tikfly.io/api-reference)
 - [Support](mailto:hello@tikfly.io)
 
 ## Disclaimer
