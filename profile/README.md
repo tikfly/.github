@@ -8,6 +8,7 @@
 - ⚡️ **Fast and lightweight**. Designed for speed, TikFly delivers data in clean, minimal responses so you can build efficiently without unnecessary overhead.
 - 🏜️ **Broad data access**. Easily fetch public data like videos, user profiles, hashtags, and trending content, all in one place.
 - 🧸 **Developer-friendly**. Simple endpoints and predictable responses mean less time debugging and more time building.
+- 🧽 **Flexible use cases**. From analytics dashboards to automation tools and content discovery apps, TikFly adapts to a wide range of projects.
 
 ## Links
 - [Website](https://tikfly.io)
